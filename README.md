@@ -25,7 +25,6 @@ This embedded Linux project for Raspberry Pi uses a DS18B20 temperature sensor t
 - `fan_control.sh` – Main control script
 - `temp.txt` – Auto-generated temperature log file
 - `README.md` – This documentation
-- `LICENSE` – MIT Open-source license
 
 ## How to Use
 
